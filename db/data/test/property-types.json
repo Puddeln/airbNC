@@ -1,0 +1,14 @@
+[
+  {
+    "property_type": "Apartment",
+    "description": "Description of Apartment."
+  },
+  {
+    "property_type": "House",
+    "description": "Description of House."
+  },
+  {
+    "property_type": "Studio",
+    "description": "Description of Studio."
+  }
+]

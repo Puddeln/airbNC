@@ -1,0 +1,62 @@
+[
+  {
+    "property_name": "Modern Apartment in City Center",
+    "guest_name": "Bob Smith",
+    "check_in_date": "2025-12-01",
+    "check_out_date": "2025-12-05"
+  },
+  {
+    "property_name": "Cosy Family House",
+    "guest_name": "Rachel Cummings",
+    "check_in_date": "2025-12-10",
+    "check_out_date": "2025-12-15"
+  },
+  {
+    "property_name": "Chic Studio Near the Beach",
+    "guest_name": "Frank White",
+    "check_in_date": "2025-12-12",
+    "check_out_date": "2025-12-14"
+  },
+  {
+    "property_name": "Elegant City Apartment",
+    "guest_name": "Rachel Cummings",
+    "check_in_date": "2025-12-20",
+    "check_out_date": "2025-12-23"
+  },
+  {
+    "property_name": "Charming Studio Retreat",
+    "guest_name": "Rachel Cummings",
+    "check_in_date": "2025-12-05",
+    "check_out_date": "2025-12-08"
+  },
+  {
+    "property_name": "Luxury Penthouse with View",
+    "guest_name": "Bob Smith",
+    "check_in_date": "2025-12-08",
+    "check_out_date": "2025-12-12"
+  },
+  {
+    "property_name": "Spacious Countryside House",
+    "guest_name": "Frank White",
+    "check_in_date": "2025-12-18",
+    "check_out_date": "2025-12-22"
+  },
+  {
+    "property_name": "Seaside Studio Getaway",
+    "guest_name": "Rachel Cummings",
+    "check_in_date": "2025-12-25",
+    "check_out_date": "2025-12-28"
+  },
+  {
+    "property_name": "Cosy Loft in the Heart of the City",
+    "guest_name": "Rachel Cummings",
+    "check_in_date": "2025-12-16",
+    "check_out_date": "2025-12-19"
+  },
+  {
+    "property_name": "Quaint Cottage in the Hills",
+    "guest_name": "Rachel Cummings",
+    "check_in_date": "2025-12-22",
+    "check_out_date": "2025-12-26"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "property_name": "Modern Apartment in City Center",
+    "guest_name": "Bob Smith",
+    "check_in_date": "2025-02-15",
+    "check_out_date": "2025-02-20"
+  },
+  {
+    "property_name": "Cosy Family House",
+    "guest_name": "Frank White",
+    "check_in_date": "2025-03-01",
+    "check_out_date": "2025-03-05"
+  },
+  {
+    "property_name": "Chic Studio Near the Beach",
+    "guest_name": "Sophia Bennett",
+    "check_in_date": "2025-04-10",
+    "check_out_date": "2025-04-15"
+  },
+  {
+    "property_name": "Elegant City Apartment",
+    "guest_name": "Olivia Taylor",
+    "check_in_date": "2025-05-01",
+    "check_out_date": "2025-05-05"
+  },
+  {
+    "property_name": "Charming Studio Retreat",
+    "guest_name": "Bob Smith",
+    "check_in_date": "2025-06-15",
+    "check_out_date": "2025-06-20"
+  },
+  {
+    "property_name": "Luxury Penthouse with View",
+    "guest_name": "Frank White",
+    "check_in_date": "2025-07-01",
+    "check_out_date": "2025-07-05"
+  },
+  {
+    "property_name": "Spacious Countryside House",
+    "guest_name": "Sophia Bennett",
+    "check_in_date": "2025-08-05",
+    "check_out_date": "2025-08-10"
+  },
+  {
+    "property_name": "Seaside Studio Getaway",
+    "guest_name": "Olivia Taylor",
+    "check_in_date": "2025-09-10",
+    "check_out_date": "2025-09-12"
+  },
+  {
+    "property_name": "Cosy Loft in the Heart of the City",
+    "guest_name": "Bob Smith",
+    "check_in_date": "2025-10-01",
+    "check_out_date": "2025-10-05"
+  },
+  {
+    "property_name": "Quaint Cottage in the Hills",
+    "guest_name": "Sophia Bennett",
+    "check_in_date": "2025-11-01",
+    "check_out_date": "2025-11-05"
+  },
+  {
+    "property_name": "Bright and Airy Studio",
+    "guest_name": "Frank White",
+    "check_in_date": "2025-12-10",
+    "check_out_date": "2025-12-12"
+  },
+  {
+    "property_name": "Coastal Retreat with Garden",
+    "guest_name": "Olivia Taylor",
+    "check_in_date": "2025-01-15",
+    "check_out_date": "2025-01-18"
+  },
+  {
+    "property_name": "Urban Loft with Modern Amenities",
+    "guest_name": "Bob Smith",
+    "check_in_date": "2025-02-01",
+    "check_out_date": "2025-02-04"
+  },
+  {
+    "property_name": "Forest Hideaway Cabin",
+    "guest_name": "Sophia Bennett",
+    "check_in_date": "2025-03-15",
+    "check_out_date": "2025-03-20"
+  },
+  {
+    "property_name": "Seafront Villa with Infinity Pool",
+    "guest_name": "Frank White",
+    "check_in_date": "2025-04-01",
+    "check_out_date": "2025-04-10"
+  },
+  {
+    "property_name": "Mountain View Chalet",
+    "guest_name": "Olivia Taylor",
+    "check_in_date": "2025-05-15",
+    "check_out_date": "2025-05-18"
+  },
+  {
+    "property_name": "Cosy Country Cottage",
+    "guest_name": "Sophia Bennett",
+    "check_in_date": "2025-06-05",
+    "check_out_date": "2025-06-10"
+  },
+  {
+    "property_name": "Stylish Loft in Shoreditch",
+    "guest_name": "Bob Smith",
+    "check_in_date": "2025-07-01",
+    "check_out_date": "2025-07-05"
+  },
+  {
+    "property_name": "Historic Castle Stay",
+    "guest_name": "Frank White",
+    "check_in_date": "2025-08-20",
+    "check_out_date": "2025-08-23"
+  },
+  {
+    "property_name": "Historic Castle Stay",
+    "guest_name": "Olivia Taylor",
+    "check_in_date": "2025-09-15",
+    "check_out_date": "2025-09-20"
+  },
+  {
+    "property_name": "Lakeside Luxury Villa",
+    "guest_name": "Sophia Bennett",
+    "check_in_date": "2025-10-01",
+    "check_out_date": "2025-10-07"
+  },
+  {
+    "property_name": "Modern Apartment in City Center",
+    "guest_name": "Frank White",
+    "check_in_date": "2025-11-15",
+    "check_out_date": "2025-11-20"
+  },
+  {
+    "property_name": "Cosy Family House",
+    "guest_name": "Sophia Bennett",
+    "check_in_date": "2025-12-01",
+    "check_out_date": "2025-12-05"
+  },
+  {
+    "property_name": "Chic Studio Near the Beach",
+    "guest_name": "Bob Smith",
+    "check_in_date": "2025-01-10",
+    "check_out_date": "2025-01-15"
+  },
+  {
+    "property_name": "Elegant City Apartment",
+    "guest_name": "Olivia Taylor",
+    "check_in_date": "2025-02-01",
+    "check_out_date": "2025-02-05"
+  },
+  {
+    "property_name": "Charming Studio Retreat",
+    "guest_name": "Sophia Bennett",
+    "check_in_date": "2025-03-01",
+    "check_out_date": "2025-03-05"
+  }
+]

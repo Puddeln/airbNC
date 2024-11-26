@@ -1,0 +1,68 @@
+[
+  {
+    "guest_name": "Frank White",
+    "property_name": "Chic Studio Near the Beach",
+    "rating": 4,
+    "comment": "Comment about Chic Studio Near the Beach: Great location and cosy space, perfect for a beach getaway."
+  },
+  {
+    "guest_name": "Bob Smith",
+    "property_name": "Modern Apartment in City Center",
+    "rating": 2,
+    "comment": "Comment about Modern Apartment in City Center: Too noisy at night, and the apartment felt cramped. Wouldn’t stay again."
+  },
+  {
+    "guest_name": "Rachel Cummings",
+    "property_name": "Luxury Penthouse with View",
+    "rating": 5,
+    "comment": "Comment about Luxury Penthouse with View: Incredible property! The view from the penthouse is stunning."
+  },
+  {
+    "guest_name": "Frank White",
+    "property_name": "Elegant City Apartment",
+    "rating": 2,
+    "comment": "Comment about Elegant City Apartment: The apartment was nice but not as advertised. The bed was uncomfortable."
+  },
+  {
+    "guest_name": "Rachel Cummings",
+    "property_name": "Cosy Loft in the Heart of the City",
+    "rating": 3,
+    "comment": "Comment about Cosy Loft in the Heart of the City: Great location but the loft was a bit smaller than expected."
+  },
+  {
+    "guest_name": "Bob Smith",
+    "property_name": "Charming Studio Retreat",
+    "rating": 4,
+    "comment": "Comment about Charming Studio Retreat: Loved the ambiance and decor, but had some issues with the Wi-Fi connection."
+  },
+  {
+    "guest_name": "Frank White",
+    "property_name": "Spacious Countryside House",
+    "rating": 5,
+    "comment": "Comment about Spacious Countryside House: Beautiful home, very spacious and perfect for a family retreat."
+  },
+  {
+    "guest_name": "Rachel Cummings",
+    "property_name": "Modern Apartment in City Center",
+    "rating": 3,
+    "comment": "Comment about Modern Apartment in City Center: Central location but parking was a hassle and the space felt a bit cramped."
+  },
+  {
+    "guest_name": "Frank White",
+    "property_name": "Chic Studio Near the Beach",
+    "rating": 3,
+    "comment": "Comment about Chic Studio Near the Beach: Stylish but the bathroom could use some updates."
+  },
+  {
+    "guest_name": "Bob Smith",
+    "property_name": "Cosy Loft in the Heart of the City",
+    "rating": 5,
+    "comment": "Comment about Cosy Loft in the Heart of the City: Amazing loft with great city views, very comfortable."
+  },
+  {
+    "guest_name": "Rachel Cummings",
+    "property_name": "Luxury Penthouse with View",
+    "rating": 1,
+    "comment": "Comment about Luxury Penthouse with View: Disappointing experience. The penthouse was overpriced, and the service was poor."
+  }
+]

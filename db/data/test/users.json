@@ -1,0 +1,50 @@
+[
+  {
+    "first_name": "Alice",
+    "surname": "Johnson",
+    "email": "alice@example.com",
+    "phone_number": "+44 7000 111111",
+    "role": "host",
+    "avatar": "https://example.com/images/alice.jpg"
+  },
+  {
+    "first_name": "Bob",
+    "surname": "Smith",
+    "email": "bob@example.com",
+    "phone_number": "+44 7000 222222",
+    "role": "guest",
+    "avatar": "https://example.com/images/bob.jpg"
+  },
+  {
+    "first_name": "Emma",
+    "surname": "Davis",
+    "email": "emma@example.com",
+    "phone_number": "+44 7000 333333",
+    "role": "host",
+    "avatar": "https://example.com/images/emma.jpg"
+  },
+  {
+    "first_name": "Frank",
+    "surname": "White",
+    "email": "frank@example.com",
+    "phone_number": "+44 7000 444444",
+    "role": "guest",
+    "avatar": "https://example.com/images/frank.jpg"
+  },
+  {
+    "first_name": "Isabella",
+    "surname": "Martinez",
+    "email": "isabella@example.com",
+    "phone_number": "+44 7000 555555",
+    "role": "host",
+    "avatar": "https://example.com/images/isabella.jpg"
+  },
+  {
+    "first_name": "Rachel",
+    "surname": "Cummings",
+    "email": "rachel@example.com",
+    "phone_number": "+44 7000 666666",
+    "role": "guest",
+    "avatar": "https://example.com/images/rachel.jpg"
+  }
+]

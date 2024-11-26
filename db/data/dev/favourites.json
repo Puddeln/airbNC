@@ -1,0 +1,31 @@
+[
+  { "guest_name": "Bob Smith", "property_name": "Cosy Country Cottage" },
+  {
+    "guest_name": "Bob Smith",
+    "property_name": "Cosy Loft in the Heart of the City"
+  },
+  {
+    "guest_name": "Bob Smith",
+    "property_name": "Seafront Villa with Infinity Pool"
+  },
+  { "guest_name": "Bob Smith", "property_name": "Lakeside Luxury Villa" },
+  {
+    "guest_name": "Frank White",
+    "property_name": "Quaint Cottage in the Hills"
+  },
+  {
+    "guest_name": "Frank White",
+    "property_name": "Luxury Penthouse with View"
+  },
+  { "guest_name": "Frank White", "property_name": "Elegant City Apartment" },
+  { "guest_name": "Sophia Bennett", "property_name": "Mountain View Chalet" },
+  {
+    "guest_name": "Olivia Taylor",
+    "property_name": "Stylish Loft in Shoreditch"
+  },
+  { "guest_name": "Olivia Taylor", "property_name": "Mountain View Chalet" },
+  {
+    "guest_name": "Olivia Taylor",
+    "property_name": "Modern Apartment in City Center"
+  }
+]

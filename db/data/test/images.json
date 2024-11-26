@@ -1,0 +1,62 @@
+[
+  {
+    "property_name": "Modern Apartment in City Center",
+    "image_url": "https://example.com/images/modern_apartment_1.jpg",
+    "alt_tag": "Alt tag for Modern Apartment in City Center"
+  },
+  {
+    "property_name": "Modern Apartment in City Center",
+    "image_url": "https://example.com/images/modern_apartment_3.jpg",
+    "alt_tag": "Alt tag for Modern Apartment in City Center 2"
+  },
+  {
+    "property_name": "Modern Apartment in City Center",
+    "image_url": "https://example.com/images/modern_apartment_3.jpg",
+    "alt_tag": "Alt tag for Modern Apartment in City Center 3"
+  },
+  {
+    "property_name": "Cosy Family House",
+    "image_url": "https://example.com/images/cosy_family_house_1.jpg",
+    "alt_tag": "Alt tag for Cosy Family House"
+  },
+  {
+    "property_name": "Chic Studio Near the Beach",
+    "image_url": "https://example.com/images/chic_studio_1.jpg",
+    "alt_tag": "Alt tag for Chic Studio Near the Beach"
+  },
+  {
+    "property_name": "Elegant City Apartment",
+    "image_url": "https://example.com/images/elegant_city_apartment_1.jpg",
+    "alt_tag": "Alt tag for Elegant City Apartment"
+  },
+  {
+    "property_name": "Charming Studio Retreat",
+    "image_url": "https://example.com/images/charming_studio_1.jpg",
+    "alt_tag": "Alt tag for Charming Studio Retreat"
+  },
+  {
+    "property_name": "Luxury Penthouse with View",
+    "image_url": "https://example.com/images/luxury_penthouse_1.jpg",
+    "alt_tag": "Alt tag for Luxury Penthouse with View"
+  },
+  {
+    "property_name": "Spacious Countryside House",
+    "image_url": "https://example.com/images/spacious_house_1.jpg",
+    "alt_tag": "Alt tag for Spacious Countryside House"
+  },
+  {
+    "property_name": "Seaside Studio Getaway",
+    "image_url": "https://example.com/images/seaside_studio_1.jpg",
+    "alt_tag": "Alt tag for Seaside Studio Getaway"
+  },
+  {
+    "property_name": "Cosy Loft in the Heart of the City",
+    "image_url": "https://example.com/images/cosy_loft_1.jpg",
+    "alt_tag": "Alt tag for Cosy Loft in the Heart of the City"
+  },
+  {
+    "property_name": "Quaint Cottage in the Hills",
+    "image_url": "https://example.com/images/quaint_cottage_1.jpg",
+    "alt_tag": "Alt tag for Quaint Cottage in the Hills"
+  }
+]

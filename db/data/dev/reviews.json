@@ -1,0 +1,218 @@
+[
+  {
+    "property_name": "Modern Apartment in City Center",
+    "guest_name": "Bob Smith",
+    "rating": 5,
+    "comment": "Great place, very convenient location."
+  },
+  {
+    "property_name": "Cosy Family House",
+    "guest_name": "Frank White",
+    "rating": 4,
+    "comment": "Lovely house, perfect for our family."
+  },
+  {
+    "property_name": "Chic Studio Near the Beach",
+    "guest_name": "Sophia Bennett",
+    "rating": 3,
+    "comment": "Nice little studio, but the noise from the street was a bit much."
+  },
+  {
+    "property_name": "Elegant City Apartment",
+    "guest_name": "Olivia Taylor",
+    "rating": 4,
+    "comment": "Really enjoyed my stay here, great amenities and central location."
+  },
+  {
+    "property_name": "Charming Studio Retreat",
+    "guest_name": "Bob Smith",
+    "rating": 5,
+    "comment": "A beautiful and peaceful retreat. Very comfortable and great value."
+  },
+  {
+    "property_name": "Luxury Penthouse with View",
+    "guest_name": "Frank White",
+    "rating": 5,
+    "comment": "Amazing view! Loved the luxury feel of this penthouse."
+  },
+  {
+    "property_name": "Spacious Countryside House",
+    "guest_name": "Sophia Bennett",
+    "rating": 4,
+    "comment": "Great place for a family getaway, but a bit far from the nearest supermarket."
+  },
+  {
+    "property_name": "Seaside Studio Getaway",
+    "guest_name": "Olivia Taylor",
+    "rating": 4,
+    "comment": "Perfect for a weekend getaway, though it was a little small for my liking."
+  },
+  {
+    "property_name": "Cosy Loft in the Heart of the City",
+    "guest_name": "Bob Smith",
+    "rating": 3,
+    "comment": "Nice loft but not enough natural light."
+  },
+  {
+    "property_name": "Quaint Cottage in the Hills",
+    "guest_name": "Sophia Bennett",
+    "rating": 5,
+    "comment": "A charming cottage, ideal for a relaxing weekend."
+  },
+  {
+    "property_name": "Bright and Airy Studio",
+    "guest_name": "Frank White",
+    "rating": 4,
+    "comment": "Clean and simple, just what I needed."
+  },
+  {
+    "property_name": "Coastal Retreat with Garden",
+    "guest_name": "Olivia Taylor",
+    "rating": 5,
+    "comment": "Fantastic location by the sea. Loved the garden!"
+  },
+  {
+    "property_name": "Urban Loft with Modern Amenities",
+    "guest_name": "Bob Smith",
+    "rating": 5,
+    "comment": "A great place to stay in the city, very stylish and modern."
+  },
+  {
+    "property_name": "Forest Hideaway Cabin",
+    "guest_name": "Sophia Bennett",
+    "rating": 4,
+    "comment": "Great location in the forest, perfect for a peaceful retreat."
+  },
+  {
+    "property_name": "Seafront Villa with Infinity Pool",
+    "guest_name": "Frank White",
+    "rating": 5,
+    "comment": "Stunning villa with incredible views."
+  },
+  {
+    "property_name": "Mountain View Chalet",
+    "guest_name": "Olivia Taylor",
+    "rating": 5,
+    "comment": "Breathtaking views of the mountains. A great escape from city life."
+  },
+  {
+    "property_name": "Cosy Country Cottage",
+    "guest_name": "Sophia Bennett",
+    "rating": 3,
+    "comment": "It was a nice cottage, but it could use some updates."
+  },
+  {
+    "property_name": "Stylish Loft in Shoreditch",
+    "guest_name": "Bob Smith",
+    "rating": 5,
+    "comment": "Loved the vibe of this place, very trendy and central."
+  },
+  {
+    "property_name": "Historic Castle Stay",
+    "guest_name": "Frank White",
+    "rating": 3,
+    "comment": "The location was beautiful, but the room could have been cleaner."
+  },
+  {
+    "property_name": "Historic Castle Stay",
+    "guest_name": "Olivia Taylor",
+    "rating": 5,
+    "comment": "Such a unique experience! Staying in a castle was incredible."
+  },
+  {
+    "property_name": "Lakeside Luxury Villa",
+    "guest_name": "Sophia Bennett",
+    "rating": 4,
+    "comment": "The villa is gorgeous, but the lake could use better access."
+  },
+  {
+    "property_name": "Modern Apartment in City Center",
+    "guest_name": "Frank White",
+    "rating": 4,
+    "comment": "Convenient location and comfortable apartment."
+  },
+  {
+    "property_name": "Cosy Family House",
+    "guest_name": "Sophia Bennett",
+    "rating": 5,
+    "comment": "Great for family gatherings, spacious and cosy."
+  },
+  {
+    "property_name": "Chic Studio Near the Beach",
+    "guest_name": "Bob Smith",
+    "rating": 4,
+    "comment": "Nice place, close to the beach. Would stay again!"
+  },
+  {
+    "property_name": "Elegant City Apartment",
+    "guest_name": "Olivia Taylor",
+    "rating": 3,
+    "comment": "It was nice, but I expected a bit more space for the price."
+  },
+  {
+    "property_name": "Charming Studio Retreat",
+    "guest_name": "Sophia Bennett",
+    "rating": 5,
+    "comment": "A peaceful and charming retreat. Loved it!"
+  },
+  {
+    "property_name": "Luxury Penthouse with View",
+    "guest_name": "Bob Smith",
+    "rating": 5,
+    "comment": "Incredible penthouse! The view was amazing."
+  },
+  {
+    "property_name": "Spacious Countryside House",
+    "guest_name": "Olivia Taylor",
+    "rating": 4,
+    "comment": "Wonderful countryside house, but a little isolated."
+  },
+  {
+    "property_name": "Seaside Studio Getaway",
+    "guest_name": "Frank White",
+    "rating": 2,
+    "comment": "The studio was too small and not very clean."
+  },
+  {
+    "property_name": "Cosy Loft in the Heart of the City",
+    "guest_name": "Sophia Bennett",
+    "rating": 4,
+    "comment": "Nice loft, good central location but a bit noisy at night."
+  },
+  {
+    "property_name": "Quaint Cottage in the Hills",
+    "guest_name": "Bob Smith",
+    "rating": 5,
+    "comment": "Such a lovely cottage, perfect for a quiet weekend getaway."
+  },
+  {
+    "property_name": "Bright and Airy Studio",
+    "guest_name": "Frank White",
+    "rating": 3,
+    "comment": "Nice studio, but a little cramped for long stays."
+  },
+  {
+    "property_name": "Coastal Retreat with Garden",
+    "guest_name": "Sophia Bennett",
+    "rating": 5,
+    "comment": "Loved the garden! The coastal location was perfect."
+  },
+  {
+    "property_name": "Urban Loft with Modern Amenities",
+    "guest_name": "Olivia Taylor",
+    "rating": 4,
+    "comment": "Modern and stylish, but it was a bit too small."
+  },
+  {
+    "property_name": "Forest Hideaway Cabin",
+    "guest_name": "Bob Smith",
+    "rating": 4,
+    "comment": "Great getaway spot, but the roads were a bit hard to navigate."
+  },
+  {
+    "property_name": "Seafront Villa with Infinity Pool",
+    "guest_name": "Frank White",
+    "rating": 5,
+    "comment": "Amazing experience with an infinity pool overlooking the sea."
+  }
+]

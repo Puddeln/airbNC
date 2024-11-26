@@ -1,0 +1,42 @@
+[
+  {
+    "property_type": "Apartment",
+    "description": "A self-contained housing unit that occupies part of a building."
+  },
+  {
+    "property_type": "House",
+    "description": "A building that functions as a home, offering a variety of spaces."
+  },
+  {
+    "property_type": "Studio",
+    "description": "A small, self-contained apartment with an open floor plan."
+  },
+  {
+    "property_type": "Loft",
+    "description": "A large, open space with few or no interior walls, often converted from an industrial building."
+  },
+  {
+    "property_type": "Villa",
+    "description": "A large and luxurious residence, often located in a scenic area."
+  },
+  {
+    "property_type": "Cottage",
+    "description": "A small, quaint house, typically in a rural or semi-rural location."
+  },
+  {
+    "property_type": "Chalet",
+    "description": "A wooden house with a steep roof, often found in mountain regions."
+  },
+  {
+    "property_type": "Cabin",
+    "description": "A small, simple house made of wood, typically located in a remote area."
+  },
+  {
+    "property_type": "Mansion",
+    "description": "A large, grand house, typically with luxurious amenities."
+  },
+  {
+    "property_type": "Castle",
+    "description": "A large, fortified building with towers and walls, often with a historical or medieval style."
+  }
+]
