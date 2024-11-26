@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Modern Apartment in City Center",
+    "property_type": "Apartment",
+    "location": "London, UK",
+    "price_per_night": 120.0,
+    "description": "Description of Modern Apartment in City Center.",
+    "host_name": "Alice Johnson"
+  },
+  {
+    "name": "Cosy Family House",
+    "property_type": "House",
+    "location": "Manchester, UK",
+    "price_per_night": 150.0,
+    "description": "Description of Cosy Family House.",
+    "host_name": "Alice Johnson"
+  },
+  {
+    "name": "Chic Studio Near the Beach",
+    "property_type": "Studio",
+    "location": "Brighton, UK",
+    "price_per_night": 90.0,
+    "description": "Description of Chic Studio Near the Beach.",
+    "host_name": "Alice Johnson"
+  },
+  {
+    "name": "Elegant City Apartment",
+    "property_type": "Apartment",
+    "location": "Birmingham, UK",
+    "price_per_night": 110.0,
+    "description": "Description of Elegant City Apartment.",
+    "host_name": "Emma Davis"
+  },
+  {
+    "name": "Charming Studio Retreat",
+    "property_type": "Studio",
+    "location": "Bristol, UK",
+    "price_per_night": 85.0,
+    "description": "Description of Charming Studio Retreat.",
+    "host_name": "Emma Davis"
+  },
+  {
+    "name": "Luxury Penthouse with View",
+    "property_type": "Apartment",
+    "location": "London, UK",
+    "price_per_night": 250.0,
+    "description": "Description of Luxury Penthouse with View.",
+    "host_name": "Alice Johnson"
+  },
+  {
+    "name": "Spacious Countryside House",
+    "property_type": "House",
+    "location": "Yorkshire, UK",
+    "price_per_night": 200.0,
+    "description": "Description of Spacious Countryside House.",
+    "host_name": "Isabella Martinez"
+  },
+  {
+    "name": "Seaside Studio Getaway",
+    "property_type": "Studio",
+    "location": "Cornwall, UK",
+    "price_per_night": 95.0,
+    "description": "Description of Seaside Studio Getaway.",
+    "host_name": "Emma Davis"
+  },
+  {
+    "name": "Cosy Loft in the Heart of the City",
+    "property_type": "Apartment",
+    "location": "Manchester, UK",
+    "price_per_night": 130.0,
+    "description": "Description of Cosy Loft in the Heart of the City.",
+    "host_name": "Isabella Martinez"
+  },
+  {
+    "name": "Quaint Cottage in the Hills",
+    "property_type": "House",
+    "location": "Lake District, UK",
+    "price_per_night": 180.0,
+    "description": "Description of Quaint Cottage in the Hills.",
+    "host_name": "Isabella Martinez"
+  },
+  {
+    "name": "Bright and Airy Studio",
+    "property_type": "Studio",
+    "location": "Cambridge, UK",
+    "price_per_night": 100.0,
+    "description": "Description of Bright and Airy Studio.",
+    "host_name": "Alice Johnson"
+  }
+]

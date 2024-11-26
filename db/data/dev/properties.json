@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Modern Apartment in City Center",
+    "property_type": "Apartment",
+    "location": "London, UK",
+    "price_per_night": 120.0,
+    "description": "Description of Modern Apartment in City Center. A sleek apartment with all modern amenities.",
+    "host_name": "Alice Johnson"
+  },
+  {
+    "name": "Cosy Family House",
+    "property_type": "House",
+    "location": "Manchester, UK",
+    "price_per_night": 150.0,
+    "description": "A spacious home perfect for families looking to explore the city.",
+    "host_name": "Alice Johnson"
+  },
+  {
+    "name": "Chic Studio Near the Beach",
+    "property_type": "Studio",
+    "location": "Brighton, UK",
+    "price_per_night": 90.0,
+    "description": "A modern, cosy studio just steps away from the sea.",
+    "host_name": "Alice Johnson"
+  },
+  {
+    "name": "Elegant City Apartment",
+    "property_type": "Apartment",
+    "location": "Birmingham, UK",
+    "price_per_night": 110.0,
+    "description": "Stylish apartment located in the heart of Birmingham, close to all attractions.",
+    "host_name": "Emma Davis"
+  },
+  {
+    "name": "Charming Studio Retreat",
+    "property_type": "Studio",
+    "location": "Bristol, UK",
+    "price_per_night": 85.0,
+    "description": "A peaceful studio perfect for solo travelers or couples.",
+    "host_name": "Emma Davis"
+  },
+  {
+    "name": "Luxury Penthouse with View",
+    "property_type": "Apartment",
+    "location": "London, UK",
+    "price_per_night": 250.0,
+    "description": "A high-end penthouse offering breathtaking views of the London skyline.",
+    "host_name": "Alice Johnson"
+  },
+  {
+    "name": "Spacious Countryside House",
+    "property_type": "House",
+    "location": "Yorkshire, UK",
+    "price_per_night": 200.0,
+    "description": "A large country house with a beautiful garden and scenic views.",
+    "host_name": "Isabella Martinez"
+  },
+  {
+    "name": "Seaside Studio Getaway",
+    "property_type": "Studio",
+    "location": "Cornwall, UK",
+    "price_per_night": 95.0,
+    "description": "A quaint studio by the sea, perfect for a weekend escape.",
+    "host_name": "Emma Davis"
+  },
+  {
+    "name": "Cosy Loft in the Heart of the City",
+    "property_type": "Apartment",
+    "location": "Manchester, UK",
+    "price_per_night": 130.0,
+    "description": "A charming loft offering easy access to Manchester’s vibrant nightlife.",
+    "host_name": "Isabella Martinez"
+  },
+  {
+    "name": "Quaint Cottage in the Hills",
+    "property_type": "Cottage",
+    "location": "Lake District, UK",
+    "price_per_night": 180.0,
+    "description": "A cosy cottage nestled in the hills, ideal for nature lovers.",
+    "host_name": "Isabella Martinez"
+  },
+  {
+    "name": "Bright and Airy Studio",
+    "property_type": "Studio",
+    "location": "Cambridge, UK",
+    "price_per_night": 100.0,
+    "description": "A well-lit, comfortable studio located in a quiet area of Cambridge.",
+    "host_name": "Alice Johnson"
+  },
+  {
+    "name": "Coastal Retreat with Garden",
+    "property_type": "House",
+    "location": "Swansea, UK",
+    "price_per_night": 175.0,
+    "description": "A charming house with a large garden, just a short walk from the beach.",
+    "host_name": "Liam O'Connor"
+  },
+  {
+    "name": "Urban Loft with Modern Amenities",
+    "property_type": "Loft",
+    "location": "London, UK",
+    "price_per_night": 200.0,
+    "description": "A contemporary loft with all the latest amenities in the heart of London.",
+    "host_name": "Mason Roberts"
+  },
+  {
+    "name": "Forest Hideaway Cabin",
+    "property_type": "Cabin",
+    "location": "Scotland, UK",
+    "price_per_night": 120.0,
+    "description": "A secluded cabin surrounded by trees, perfect for a peaceful getaway.",
+    "host_name": "Lucas Walker"
+  },
+  {
+    "name": "Seafront Villa with Infinity Pool",
+    "property_type": "Villa",
+    "location": "Cornwall, UK",
+    "price_per_night": 400.0,
+    "description": "A luxurious villa overlooking the sea with a private infinity pool.",
+    "host_name": "Lucas Walker"
+  },
+  {
+    "name": "Mountain View Chalet",
+    "property_type": "Chalet",
+    "location": "Eryri, UK",
+    "price_per_night": 160.0,
+    "description": "A chalet offering stunning views of the mountains, ideal for winter retreats.",
+    "host_name": "Ethan Harris"
+  },
+  {
+    "name": "Cosy Country Cottage",
+    "property_type": "Cottage",
+    "location": "Cornwall, UK",
+    "price_per_night": 130.0,
+    "description": "A charming cottage tucked away in the countryside, perfect for a weekend escape.",
+    "host_name": "Ethan Harris"
+  },
+  {
+    "name": "Stylish Loft in Shoreditch",
+    "property_type": "Loft",
+    "location": "London, UK",
+    "price_per_night": 220.0,
+    "description": "A modern loft in a trendy area of London, surrounded by street art and restaurants.",
+    "host_name": "Mason Roberts"
+  },
+  {
+    "name": "Historic Castle Stay",
+    "property_type": "Castle",
+    "location": "Scotland, UK",
+    "price_per_night": 500.0,
+    "description": "A unique stay in a restored Scottish castle, with luxurious amenities and stunning views.",
+    "host_name": "Isabella Martinez"
+  },
+  {
+    "name": "Lakeside Luxury Villa",
+    "property_type": "Villa",
+    "location": "Lake District, UK",
+    "price_per_night": 350.0,
+    "description": "A stunning villa overlooking the lake, perfect for large groups or special occasions.",
+    "host_name": "Lucas Walker"
+  }
+]

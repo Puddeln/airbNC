@@ -1,0 +1,42 @@
+[
+  {
+    "guest_name": "Bob Smith",
+    "property_name": "Modern Apartment in City Center"
+  },
+  {
+    "guest_name": "Rachel Cummings",
+    "property_name": "Cosy Family House"
+  },
+  {
+    "guest_name": "Frank White",
+    "property_name": "Chic Studio Near the Beach"
+  },
+  {
+    "guest_name": "Rachel Cummings",
+    "property_name": "Elegant City Apartment"
+  },
+  {
+    "guest_name": "Rachel Cummings",
+    "property_name": "Charming Studio Retreat"
+  },
+  {
+    "guest_name": "Bob Smith",
+    "property_name": "Luxury Penthouse with View"
+  },
+  {
+    "guest_name": "Frank White",
+    "property_name": "Seaside Studio Getaway"
+  },
+  {
+    "guest_name": "Frank White",
+    "property_name": "Spacious Countryside House"
+  },
+  {
+    "guest_name": "Bob Smith",
+    "property_name": "Cosy Loft in the Heart of the City"
+  },
+  {
+    "guest_name": "Bob Smith",
+    "property_name": "Quaint Cottage in the Hills"
+  }
+]
