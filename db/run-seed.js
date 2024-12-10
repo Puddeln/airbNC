@@ -1,6 +1,6 @@
 process.env.NODE_ENV = "test";
 
-const data = require("./data");
+const data = require("./data/test");
 const seed = require("./seed");
 
 const db = require("./connection.js");
