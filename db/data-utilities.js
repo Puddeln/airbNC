@@ -1,8 +1,10 @@
-exports.createRef = (key, value, data) => {
-  return data.reduce((refObj, row) => {
-    refObj[row[key]] = row[value];
-    return refObj;
-  }, {});
+exports.createUsersRef = (users) => {
+  const refObj = {};
+  for (i = 0; i < users.length; i++) {
+    const fullName = users[i].first_name + " " + users[i].surname;
+    refObj[fullName] = users[i].user_id;
+  }
+  return refObj;
 };
 
 exports.formatData = (refObj, keyToRemove, keyToAdd, rawData) => {
