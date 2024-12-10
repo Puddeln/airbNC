@@ -17,6 +17,8 @@ PGDATABASE=airbnc_test
 
 Run `npm run setup-dbs` to create the local test database.
 
+Run `npm run seed` to seed the test database.
+
 # Further features to be added:
 
 # Requirements:
