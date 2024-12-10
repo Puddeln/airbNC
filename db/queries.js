@@ -32,7 +32,7 @@ exports.createPropertyTypesQuery = `CREATE TABLE property_types (
 
 exports.createPropertiesQuery = `CREATE TABLE properties (
     property_id SERIAL PRIMARY KEY,
-    host_id INT REFERENCES users(user_id) ON DELETE CASCADE,
+    host_id INT NOT NULL REFERENCES users(user_id) ON DELETE CASCADE ,
     name VARCHAR NOT NULL,
     location VARCHAR NOT NULL,
     property_type VARCHAR REFERENCES property_types(property_type) ON DELETE CASCADE,
@@ -46,8 +46,6 @@ exports.createImagesQuery = `CREATE TABLE images (
     image_url VARCHAR NOT NULL,
     alt_text VARCHAR NOT NULL);
     `;
-
-//Ensure a guest can favourite a property only once
 exports.createFavouritesQuery = `CREATE TABLE favourites (
     favourite_id SERIAL PRIMARY KEY,
     guest_id INT REFERENCES users(user_id),

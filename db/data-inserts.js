@@ -34,12 +34,20 @@ function insertPropertyTypes(property_types) {
 }
 
 // Insert property data into built tables
-function insertProperties(properties) {
+function insertProperties(properties, userRef) {
   return db.query(
     format(
-      `INSERT INTO properties (name, property_type, location, price_per_night, description) VALUES %L RETURNING *`,
+      `INSERT INTO properties (host_id, name, property_type, location, price_per_night, description) VALUES %L RETURNING *`,
       properties.map(
-        ({ name, property_type, location, price_per_night, description }) => [
+        ({
+          host_name,
+          name,
+          property_type,
+          location,
+          price_per_night,
+          description,
+        }) => [
+          userRef[host_name],
           name,
           property_type,
           location,
