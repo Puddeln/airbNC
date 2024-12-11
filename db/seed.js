@@ -2,6 +2,7 @@ const {
   createRef,
   formatData,
   createUsersRef,
+  createPropertiesRef,
 } = require("./data-utilities.js");
 const {
   insertUsers,
@@ -9,6 +10,7 @@ const {
   insertProperties,
   insertImages,
   insertReviews,
+  insertFavourites,
 } = require("./data-inserts.js");
 const db = require("./connection.js");
 
@@ -66,11 +68,18 @@ async function seed() {
 
   await insertPropertyTypes(propertyTypesData);
 
-  await insertProperties(propertiesData, userRef);
+  const { rows: insertedProperties } = await insertProperties(
+    propertiesData,
+    userRef
+  );
 
   await insertImages(imagesData);
 
-  await insertReviews(reviewsData);
+  const propertiesRef = createPropertiesRef(insertedProperties);
+
+  await insertReviews(reviewsData, userRef, propertiesRef);
+
+  await insertFavourites(favouritesData, userRef, propertiesRef);
 }
 
 module.exports = seed;
