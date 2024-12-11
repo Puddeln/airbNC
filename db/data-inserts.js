@@ -70,11 +70,29 @@ function insertImages(images) {
 }
 
 // Insert review data into built tables
-function insertReviews(reviews) {
+function insertReviews(reviews, userRef, propertiesRef) {
   return db.query(
     format(
-      `INSERT INTO reviews (rating, comment) VALUES %L RETURNING *`,
-      reviews.map(({ rating, comment }) => [rating, comment])
+      `INSERT INTO reviews (property_id, guest_id, rating, comment) VALUES %L RETURNING *`,
+      reviews.map(({ property_name, guest_name, rating, comment }) => [
+        propertiesRef[property_name],
+        userRef[guest_name],
+        rating,
+        comment,
+      ])
+    )
+  );
+}
+
+// Insert favourite data into built tables
+function insertFavourites(favourites, userRef, propertiesRef) {
+  return db.query(
+    format(
+      `INSERT INTO favourites (guest_id, property_id) VALUES %L RETURNING *`,
+      favourites.map(({ guest_name, property_name }) => [
+        userRef[guest_name],
+        propertiesRef[property_name],
+      ])
     )
   );
 }
@@ -85,4 +103,5 @@ module.exports = {
   insertProperties,
   insertImages,
   insertReviews,
+  insertFavourites,
 };

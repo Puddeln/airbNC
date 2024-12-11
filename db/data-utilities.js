@@ -1,10 +1,21 @@
+// creates a lookup-object consisting of a concatenated first name and surname as a key and user_id as value
 exports.createUsersRef = (users) => {
-  const refObj = {};
+  const userRefObj = {};
   for (i = 0; i < users.length; i++) {
     const fullName = users[i].first_name + " " + users[i].surname;
-    refObj[fullName] = users[i].user_id;
+    userRefObj[fullName] = users[i].user_id;
   }
-  return refObj;
+  return userRefObj;
+};
+
+// creates a lookup-object consisting of a property name as a key and a property_id as a value
+exports.createPropertiesRef = (properties) => {
+  const propRefObj = {};
+  for (i = 0; i < properties.length; i++) {
+    const propertyName = properties[i].name;
+    propRefObj[propertyName] = properties[i].property_id;
+  }
+  return propRefObj;
 };
 
 exports.formatData = (refObj, keyToRemove, keyToAdd, rawData) => {
