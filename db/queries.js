@@ -10,21 +10,6 @@ exports.createUsersQuery = `CREATE TABLE users (
     created_at timestamp NOT NULL DEFAULT NOW());
     `;
 
-//exports.createPropertiesQuery = `CREATE TABLE properties (
-//    property_id SERIAL PRIMARY KEY,
-//   host_id INT REFERENCES users(user_id),
-//    name VARCHAR NOT NULL,
-//    location VARCHAR NOT NULL,
-//    property_type VARCHAR NOT NULL,
-//    price_per_night FLOAT NOT NULL,
-//    description VARCHAR);
-//    `;
-
-//exports.createPropertyTypesQuery = `CREATE TABLE property_types (
-//    property_type VARCHAR REFERENCES properties(property_type),
-//    description VARCHAR NOT NULL);
-//    `;
-
 exports.createPropertyTypesQuery = `CREATE TABLE property_types (
     property_type VARCHAR PRIMARY KEY,
     description VARCHAR NOT NULL

@@ -84,17 +84,20 @@ function insertReviews(reviews, userRef, propertiesRef) {
   );
 }
 
-// Insert favourite data into built tables
-function insertFavourites(favourites, userRef, propertiesRef) {
-  return db.query(
-    format(
-      `INSERT INTO favourites (guest_id, property_id) VALUES %L RETURNING *`,
-      favourites.map(({ guest_name, property_name }) => [
-        userRef[guest_name],
-        propertiesRef[property_name],
-      ])
-    )
-  );
+//take the destructured payload and insert a new favourite into the favourites table
+async function insertFavourites({ guest_id, property_id }) {
+  try {
+    const result = await db.query(
+      `INSERT INTO favourites (guest_id, property_id) 
+       VALUES ($1, $2) 
+       RETURNING favourite_id, guest_id, property_id`,
+      [guest_id, property_id]
+    );
+    // return the inserted favourite with the created favourite id included
+    return result.rows[0];
+  } catch (err) {
+    throw new Error("inserting into favourites didn't work");
+  }
 }
 
 module.exports = {
