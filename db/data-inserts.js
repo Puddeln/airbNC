@@ -1,7 +1,7 @@
 const db = require("./connection.js");
 const format = require("pg-format");
 
-// Insert user data into built tables
+// insert user data into built tables
 function insertUsers(users) {
   return db.query(
     format(
@@ -20,7 +20,7 @@ function insertUsers(users) {
   );
 }
 
-// Insert property type data into built tables
+// insert property type data into built tables
 function insertPropertyTypes(property_types) {
   return db.query(
     format(
@@ -33,7 +33,7 @@ function insertPropertyTypes(property_types) {
   );
 }
 
-// Insert property data into built tables
+// insert property data into built tables
 function insertProperties(properties, userRef) {
   return db.query(
     format(
@@ -59,7 +59,7 @@ function insertProperties(properties, userRef) {
   );
 }
 
-// Insert image data into built tables
+// insert image data into built tables
 function insertImages(images) {
   return db.query(
     format(
@@ -69,7 +69,7 @@ function insertImages(images) {
   );
 }
 
-// Insert review data into built tables
+// insert existing review data into built tables
 function insertReviews(reviews, userRef, propertiesRef) {
   return db.query(
     format(
@@ -84,7 +84,17 @@ function insertReviews(reviews, userRef, propertiesRef) {
   );
 }
 
-//take the destructured payload and insert a new favourite into the favourites table
+// function to insert a single review passed by the post controller into the reviews table
+function insertReview(guest_id, rating, comment, id) {
+  return db.query(
+    `INSERT INTO reviews (property_id, guest_id, rating, comment) 
+     VALUES ($1, $2, $3, $4) 
+     RETURNING review_id, property_id, guest_id, rating, comment, created_at`,
+    [id, guest_id, rating, comment] // pass the individual parameters in the correct order
+  );
+}
+
+// take the destructured payload and insert a new favourite into the favourites table
 async function insertFavourites({ guest_id, property_id }) {
   try {
     const result = await db.query(
@@ -106,5 +116,6 @@ module.exports = {
   insertProperties,
   insertImages,
   insertReviews,
+  insertReview,
   insertFavourites,
 };
