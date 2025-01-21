@@ -1,4 +1,4 @@
-process.env.NODE_ENV = "test";
+console.log("Current NODE_ENV in run-seed.js:", process.env.NODE_ENV);
 
 const data = require("./data/test");
 const seed = require("./seed");
