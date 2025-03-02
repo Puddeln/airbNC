@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require("cors");
 const {
   getProperties,
   getSingleProperty,
@@ -11,6 +12,9 @@ const { updateUser } = require("../controllers/patch");
 
 // set up an express server
 const app = express();
+
+// use cors to allow requests from domains other than the one it's hosted on
+app.use(cors());
 
 // middleware to parse JSON request bodies
 app.use(express.json());
